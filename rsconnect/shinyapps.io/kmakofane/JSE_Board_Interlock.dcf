@@ -1,0 +1,13 @@
+name: JSE_Board_Interlock
+title: JSE_Board_Interlock
+username:
+account: kmakofane
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4611134
+bundleId: 5011226
+url: https://kmakofane.shinyapps.io/JSE_Board_Interlock/
+when: 1631086514.268
+lastSyncTime: 1631086514.26801
+asMultiple: FALSE
+asStatic: FALSE
